@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
 # 👉 Вставьте сюда токен, который вы получили у BotFather
-TOKEN = "8116849733:AAEeKnf5XdpqFhuTJZr9BV5SyUdZUrirW0E"
+TOKEN = "TOKEN"
 
 # Переменная для хранения последнего фото
 last_photo_file_id = None
